@@ -1,6 +1,6 @@
 const add = () => {
   const t = 10;
-  console.log('wow');
+  const a = 29;
 };
 
 console.log('test');
