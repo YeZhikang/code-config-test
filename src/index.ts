@@ -3,4 +3,6 @@ const add = () => {
   console.log('wow');
 };
 
+console.log('test');
+
 add();
